@@ -1,0 +1,34 @@
+[
+  {
+    "id": "economia_e_organizzazione_aziendale",
+    "name": "Economia e organizzazione aziendale",
+    "dolly": {
+      "page": "https://dolly.ingmo.unimore.it/2019/course/view.php?id=252",
+      "sections": [3]
+    }
+  },
+  {
+    "id": "fondamenti_di_informatica_2",
+    "name": "Fondamenti di Informatica 2",
+    "dolly": {
+      "page": "https://dolly.ingmo.unimore.it/2019/course/view.php?id=68",
+      "sections": [2,3]
+    }
+  },
+  {
+    "id": "fisica_generale",
+    "name": "Fisica generale",
+    "dolly": {
+      "page": "https://dolly.ingmo.unimore.it/2019/course/view.php?id=250",
+      "sections": [2]
+    }
+  },
+  {
+    "id": "matematica_statistica_e_applicata",
+    "name": "Matematica statistica e applicata",
+    "dolly": {
+      "page": "https://dolly.ingmo.unimore.it/2019/course/view.php?id=69",
+      "sections": [1]
+    }
+  }
+]
