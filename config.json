@@ -1,0 +1,8 @@
+{
+  "username": "unimore_user",
+  "password": "unimore_password",
+  "bot": {
+    "channelId": "channel_id",
+    "token": "bot_token"
+  }
+}
