@@ -2,7 +2,7 @@
   "name": "unimore_dolly_fetcher",
   "version": "1.0.0",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "request-promise": "latest",
     "telegraf": "^3.36.0"
